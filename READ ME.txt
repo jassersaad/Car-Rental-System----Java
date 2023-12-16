@@ -1,0 +1,6 @@
+-The folder rent is the database in JAVADB
+
+-The Java Project Video is a recording of the APP running 
+
+-The decomentation and presentation of the project is inside the Car Rental System folder in a pdf file called "Java.pdf"
+
